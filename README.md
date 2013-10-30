@@ -21,3 +21,6 @@ Then you just have to run the OSGi container with
 ```
 
 and you can visit the application at `http://localhost:9000/static/`
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jrdalpra/demo-devoxx2012/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
